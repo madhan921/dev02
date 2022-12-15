@@ -1,1 +1,2 @@
 git is a fast version
+git is a fast version tool
